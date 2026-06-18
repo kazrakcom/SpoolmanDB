@@ -2101,7 +2101,6 @@
       },
       { "name": "Panchroma™ Translucent {color_name}",
         "material": "PLA",
-        "pattern": "translucent",
         "translucent": true,
         "density": 1.17,
         "weights": [
